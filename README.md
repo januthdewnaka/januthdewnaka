@@ -1,16 +1,20 @@
-## Hi there 👋
+# Januth Dewnaka
 
-<!--
-**januthdewnaka/januthdewnaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Januth Dewnaka**, a 20-year-old undergraduate majoring in **Software Engineering**.
+I am passionate about learning programming, building software, and improving my development skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Name: Januth Dewnaka
+* Age: 20
+* Major: Software Engineering (Undergraduate)
+
+## Interests
+
+* Software Development
+* Learning new technologies
+* Problem solving
+
+---
+
+⭐ Always learning and growing in the world of technology.
